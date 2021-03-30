@@ -43,10 +43,7 @@ body {
 }
 
 .slogan {
-    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.205)), url("/img/slogan.jpg");
-    -webkit-background-image:linear-gradient(to right, rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.205)), url("/img/slogan.jpg");
-    -moz-background-image:linear-gradient(to right, rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.205)), url("/img/slogan.jpg");
-    -o-background-image:linear-gradient(to right, rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.205)), url("/img/slogan.jpg");
+    background-image: url("/img/slogan.jpg");
     background-position: center;
     background-size: cover;
     width: 1160px;

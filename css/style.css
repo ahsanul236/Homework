@@ -43,7 +43,7 @@ body {
 }
 
 .slogan {
-    background: url("./img/slogan.jpg");
+    background: url("../img/slogan.jpg");
     background-position: center;
     background-size: cover;
     width: 1160px;
